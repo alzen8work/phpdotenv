@@ -43,7 +43,7 @@ dotenv](https://github.com/bkeepers/dotenv).
 Installation is super-easy via [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require vlucas/phpdotenv
+$ composer require alzen8work/phpdotenv
 ```
 
 or add it by hand to your `composer.json` file.
